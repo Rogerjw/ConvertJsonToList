@@ -1,0 +1,64 @@
+{
+  "EROS": [
+    {
+      "moduleName": "Brand",
+      "URL": "http://ds",
+      "Screename": "Brand",
+      "Fields": [
+        {
+          "fieldName": "BrandName",
+          "locatorId": "txt_BrandName",
+          "mandatory": true
+        }
+      ],
+      "SaveData": [
+        {
+          "fieldname": "txtbox1",
+          "fieldvalue": "textValue"
+        }
+      ],
+      "AlreadyExistsData": [
+        {
+          "fieldname": "txtbox1",
+          "fieldvalue": "textValue"
+        }
+      ],
+      "SearchData": [
+        {
+          "fieldname": "txtbox1",
+          "fieldvalue": "textValue"
+        }
+      ]
+    },
+    {
+      "moduleName": "Setting",
+      "URL": "http://ds",
+      "Screename": "Setting",
+      "Fields": [
+        {
+          "fieldName": "SettingName",
+          "locatorId": "txt_SettingName",
+          "mandatory": true
+        }
+      ],
+      "SaveData": [
+        {
+          "fieldname": "txtbox1",
+          "fieldvalue": "textValue"
+        }
+      ],
+      "AlreadyExistsData": [
+        {
+          "fieldname": "txtbox1",
+          "fieldvalue": "textValue"
+        }
+      ],
+      "SearchData": [
+        {
+          "fieldname": "txtbox1",
+          "fieldvalue": "textValue"
+        }
+      ]
+    }
+  ]
+}
